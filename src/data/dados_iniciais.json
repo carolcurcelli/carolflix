@@ -1,183 +1,157 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Games",
+      "link": "https://linktr.ee/carolsvntos",
+      "cor": "#f368e0",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Games que eu gosto ou quero jogar",
+        "url": "https://twitter.com/carolsvntos"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=avUodFd70Q8"
+          "titulo": "Final Fantasy VII Remake - Theme Song Trailer | PS4",
+          "url": "https://www.youtube.com/watch?v=YkXG08_WVsY"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Ghost of Tsushima - Official Story Trailer",
+          "url": "https://www.youtube.com/watch?v=b_iU_gnn28U"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Overwatch Animated Short | “Shooting Star”",
+          "url": "https://www.youtube.com/watch?v=q7j2d6YCQbg"
+        },  
+        {
+          "titulo": "Persona 5 Royal - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=SKpSpvFCZRw"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Animal Crossing: New Horizons - Nintendo Switch Trailer - Nintendo E3 2019          ",
+          "url": "https://www.youtube.com/watch?v=_3YNL0OWio0"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Cyberpunk 2077 — Official Trailer — The Gig",
+          "url": "https://www.youtube.com/watch?v=ixl31324UxE"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Death Stranding - Launch Trailer | PS4",
+          "url": "https://www.youtube.com/watch?v=tCI396HyhbQ"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "The Last of Us Part 2 - Official Story Trailer",
+          "url": "https://www.youtube.com/watch?v=X0VubwgS2Y4"
+        }      
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Música",
+      "cor": "#ff9f43",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Músicas que comecei a ouvir esse mês",
+        "url": "https://twitter.com/carolsvntos"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "God Only Knows (Remastered)",
+          "url": "https://www.youtube.com/watch?v=CWPo5SC3zik"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Your Own Special Way (Remaster 2007)",
+          "url": "https://www.youtube.com/watch?v=oKIYxq6Sbd8"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "I'll Be Lucky Someday (Remastered 2001)",
+          "url": "https://www.youtube.com/watch?v=clwyL21oTs0"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Roundabout (2008 Remastered Version)",
+          "url": "https://www.youtube.com/watch?v=cPCLFtxpadE"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Culinária",
+      "cor": "#ee5253",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Receitas que pretendo experimentar",
+        "url": "https://twitter.com/carolsvntos"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "The Best Homemade Pasta You'll Ever Eat",
+          "url": "https://www.youtube.com/watch?v=YNHqjFyk5gU"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Healthier Versions of Unhealthy Foods | Basics with Babish",
+          "url": "https://www.youtube.com/watch?v=yYUUobrsFDs"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Estrogonofe de carne | Rita Lobo | Cozinha Prática",
+          "url": "https://www.youtube.com/watch?v=gHfFdaeaGoY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "KIMCHI | Receita Coreana",
+          "url": "https://www.youtube.com/watch?v=msk8T3Q1FGI"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Jardinagem",
+      "cor": "#10ac84",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Algumas dicas que estou seguindo com minhas plantinhas",
+        "url": "https://twitter.com/carolsvntos"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "MITOS E VERDADES na Jardinagem",
+          "url": "https://www.youtube.com/watch?v=Xb4tKEiD6bk"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "7 ERROS na JARDINAGEM que todo mundo comete",
+          "url": "https://www.youtube.com/watch?v=ssVZQzw9RKc"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Dicas de plantas fáceis de cuidar | Jardinagem | Gabi Pileggi",
+          "url": "https://www.youtube.com/watch?v=eoWGQBQDALE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "SUCULENTAS: 3 DICAS que ninguém conta",
+          "url": "https://www.youtube.com/watch?v=rErKYAdePns"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Jardim vertical de baixo custo",
+          "url": "https://www.youtube.com/watch?v=Aznxz1rtTlI"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Podcasts",
+      "cor": "#0abde3",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Podcasts que ouço no próprio YouTube",
+        "url": "https://twitter.com/carolsvntos"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "O que é JavaScript? | #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=NaVSbnnV75Q"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "SEU FRANCISCO",
+          "url": "https://www.youtube.com/watch?v=uFRigtgjM-c"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Getting Swept Up in Romantic Gestures - Ep 28 - Big Mood",
+          "url": "https://www.youtube.com/watch?v=lFxaTwf22HU"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Eric Andre - H3 Podcast #195",
+          "url": "https://www.youtube.com/watch?v=H28q3GpraK8"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Family Reunited with Kidnapped Son After 32 Years (ft. Tim Chantarangsu)",
+          "url": "https://www.youtube.com/watch?v=Jlyf4GANHtk"
         }
       ]
     }
